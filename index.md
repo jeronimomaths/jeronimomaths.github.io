@@ -2,7 +2,7 @@
 layout: page
 title: "About me"
 ---   
-<img align="right" width="230" height="200" style="margin:16px;" src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpg">
+<img align="right" width="230" height="200" style="margin:16px;" src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
 
 I am a third year PhD student at Karlsruhe Institute of Technology in Germany under the supervision of [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html). I expect to obtain my PhD in the summer of 2024. 
 
