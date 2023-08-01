@@ -10,6 +10,5 @@ Before that I completed my Master's at the University of Bonn under the supervis
 
 Here is my <a href="CV_JeronimoGarciaMejia.pdf" target="_blank">CV</a>.
 
-<br clear="right"/> #this brakes the alignment
-
+<br clear="right"/> 
 Broadly my research is in geometric group theory. I am mainly interested in the asymptotic geometry of none-positive curved groups. In particular, I have spent some time thinking about one important quasi-isometric invariant, namely the Dehn function of a finitely presented group.
