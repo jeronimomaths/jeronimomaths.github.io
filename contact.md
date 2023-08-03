@@ -11,4 +11,5 @@ Insititutional website: [https://www.math.kit.edu/iag2/~garcia/en]( https://www.
 
 <p align="center">
 <img width="570" height="190" style="margin:16px;" src="ConeOff.png">
+  This is a cartton of the Cono-off of a space that I made for my Master's thesis.
 </p>
