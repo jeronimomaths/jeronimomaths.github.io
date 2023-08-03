@@ -14,4 +14,4 @@ Insititutional website: [https://www.math.kit.edu/iag2/~garcia/en]( https://www.
     <em> This is a cartoon of the cone-off of a space that I made for my Master's thesis.</em>
 
     
-![ConeOff](ConeOff.png)
+![ConeOff.png](ConeOff.png)
