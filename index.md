@@ -8,6 +8,6 @@ I am a third-year PhD student at Karlsruhe Institute of Technology in Germany un
 
 In 2020 I completed my Master's at the University of Bonn under the supervision of [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/). Before that, in 2018, I completed my Bachelor's at the National Autonomous University of Mexico (UNAM) under the supervision of [Carlos Prieto](https://paginas.matem.unam.mx/cprieto/).
 
-Broadly my research is in geometric group theory. I am mainly interested in the asymptotic geometry of non-positive curved groups. In particular, I have spent some time thinking about one important quasi-isometric invariant, namely the Dehn function of a finitely presented group.
+Broadly my research is in geometric group theory. I am mainly interested in the asymptotic geometry of non-positive curved groups and other interesting classes of groups suchn as nilpotent groups. In particular, I have spent some time thinking about filling functions and finiteness properties of groups.
 
 Here is my <a href="CV_JeronimoGarciaMejia.pdf" target="_blank">CV</a>.
