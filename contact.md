@@ -2,6 +2,7 @@
 layout: page
 title: "Contact"
 ---
+<img align="right" width="250" height="230" style="margin:16px;" src="ConeOff.png">
 
 Email: jeronimo.garcia (at) kit.edu
 
