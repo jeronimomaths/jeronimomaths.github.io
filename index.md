@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 <img align="right" width="250" height="230" style="margin:16px;" src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
