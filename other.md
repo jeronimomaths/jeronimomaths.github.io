@@ -1,3 +1,19 @@
+---
+layout: page
+title: Teaching
+---
+
+Teaching:
+
+At the National Autonomous University of Mexico (UNAM) I was teacher's assistent of Bachelor's courses in Topology and Geometry (in Spanish).
+
+At the Karlsruhe Institute of Technology I was teacher's assistent of the following courses:
+* Knot theory (Bachelor's seminar in German)
+* Geometric group theory (Master's course in English)
+* Elementare Geometrie (Bachelor's course in German)
+
+
+
 
 <img align="center" width="580" height="430" style="margin:16px;" src="universe.png">
 This is Martin Bridson's amazing drawing of the universe of groups. A detail description of it can be found [here](https://people.maths.ox.ac.uk/~bridson/papers/bridsonicm.pdf).
