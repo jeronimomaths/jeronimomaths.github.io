@@ -14,5 +14,5 @@ Here is my <a href="CV_JeronimoGarciaMejia.pdf" target="_blank">CV</a>.
 
 
 
-<img align="right" width="230" height="210" style="margin:16px;" src="universe.png">
+<img align="center" width="230" height="210" style="margin:16px;" src="universe.png">
 Martin Bridson's amzing drawing of the universe of groups(universe.png). A detail description of it can be found ![here](https://people.maths.ox.ac.uk/~bridson/papers/bridsonicm.pdf)
