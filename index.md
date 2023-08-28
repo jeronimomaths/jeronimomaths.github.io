@@ -13,8 +13,3 @@ Broadly my research is in geometric group theory. I am mainly interested in the 
 Here is my <a href="CV_JeronimoGarciaMejia.pdf" target="_blank">CV</a>.
 
 
-
-
-
-<img align="center" width="580" height="430" style="margin:16px;" src="universe.png">
-This is Martin Bridson's amazing drawing of the universe of groups. A detail description of it can be found [here](https://people.maths.ox.ac.uk/~bridson/papers/bridsonicm.pdf).
