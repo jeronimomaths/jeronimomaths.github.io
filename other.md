@@ -14,4 +14,4 @@ At the **Karlsruhe Institute of Technology** I was teacher's assistent of the fo
 
 
 <img src="universe.jpg" width="420">
-This is Martin Bridson's amazing drawing of the universe of groups. A detail description of it can be found [here](https://people.maths.ox.ac.uk/~bridson/papers/bridsonicm.pdf).
+This is Martin Bridson's amazing drawing of the universe of finitely presented groups. A detail description of it can be found [here](https://people.maths.ox.ac.uk/~bridson/papers/bridsonicm.pdf).
