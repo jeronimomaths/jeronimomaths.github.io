@@ -13,5 +13,5 @@ At the Karlsruhe Institute of Technology I was teacher's assistent of the follow
 
 
 
-![universe of groups](universe.jpg)
+![universe of groups](universe.jpg|width=100px)
 This is Martin Bridson's amazing drawing of the universe of groups. A detail description of it can be found [here](https://people.maths.ox.ac.uk/~bridson/papers/bridsonicm.pdf).
