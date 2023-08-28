@@ -32,5 +32,6 @@ comments:
 plugins:
  - jekyll-feed
 
-kramdown:
-  input: Kramdown
+#kramdown:
+  #input: Kramdown
+  #allows open link in new tabs by inserting {:target="_blank" rel="noopener"}
