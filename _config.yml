@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "contact.md", title: "Contact"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jeronimo.garcia-mejia@kit.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:jeronimo.garcia@kit.edu"}
   #- {title: Github, icon: github, url: "https://github.com/jeronimomaths"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
