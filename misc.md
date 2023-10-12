@@ -10,7 +10,7 @@ Here is the table with the results
 \begin{table}[t]
     \centering
     \begin{tabular}{c|c|c|l|l}
-         $G$ (non-Carnot) & $\delta_G$ & $\delta_{\operatorname{gr}(G)}$ & Betti numbers of $G$ & Betti numbers of $\operatorname{gr}(G)$  \\
+         $G$ (non-Carnot) & $\delta_G$ & $\delta_{\text{gr}(G)}$ & Betti numbers of $G$ & Betti numbers of $\operatorname{gr}(G)$  \\
          \hline
 %         \vspace{2pt}
          $G = L_{5,5} \times_Z L_{3,2}$ & $n^3$ & $n^3$ & 1,5,10,11,11,10,5,1 &  1,5,{\bf 11},15,15,11,5,1 \\
