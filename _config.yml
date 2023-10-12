@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "index.md", title: "Home"}
   - {file: "publications.md", titel: "Research"}
-  - {file: "http://jeronimomaths.github.io/other/other.md", title: "Teaching"} 
+  - {file: "http://jeronimomaths.github.io/teaching/teaching.md", title: "Teaching"} 
   - {file: "contact.md", title: "Contact"}
   - {file: "misc.md", title: "Miscellaneous"}
 
