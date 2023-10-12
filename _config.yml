@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", titel: "Research"}
   - {file: "other.md", title: "Teaching"} 
   - {file: "contact.md", title: "Contact"}
- # - {file: "misc.md", title: "Miscellaneous"}
+  - {file: "misc.md", title: "Miscellaneous"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jeronimo.garcia@kit.edu"}
