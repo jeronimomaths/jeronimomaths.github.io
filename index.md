@@ -11,4 +11,4 @@ In 2020 I completed my Master's at the University of Bonn under the supervision 
 Broadly my research is in geometric group theory. I am mainly interested in the asymptotic geometry of non-positive curved groups and other interesting classes of groups such as nilpotent groups. In particular, I have spent some time thinking about filling functions and finiteness properties of groups.
 
 Here is my <a href="CV_JeronimoGarcia-Mejia.pdf">CV</a>.
- # In the above add target="_blank" to open the pdf on a different tab
+ #In the above add target="_blank" to open the pdf on a different tab
