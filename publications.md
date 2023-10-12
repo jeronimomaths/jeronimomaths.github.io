@@ -5,4 +5,4 @@ title: "Research"
 
 # Preprints
 
-1. Jerónimo García-Mejía, C. Llosa Isenrich, and G. Pallier. <a href="CentralDehn.pdf" target="_blank">_On the Dehn functions of central products of nilpotent groups_</a>. 2023 (to appear on the arXiv in the following weeks).
+<a href="CentralDehn.pdf">_On the Dehn functions of central products of nilpotent groups_</a> with Claudio Llosa Isenrich and Gabriel Pallier, 54 pages, 2023 (to appear on the arXiv in the following weeks).
