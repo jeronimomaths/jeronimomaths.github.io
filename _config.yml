@@ -32,6 +32,8 @@ comments:
 
 plugins:
  - jekyll-feed
+ 
+markdown: redcarpet
 
 #kramdown:
   #input: Kramdown
