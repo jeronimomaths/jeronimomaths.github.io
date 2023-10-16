@@ -1,6 +1,11 @@
 ---
 layout: page  
 ---
+
+<div id="image" class=""> 
+<img src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
+    </div>
+    
 <img align="right" width="230" height="210" style="margin:16px;" src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
 
 I am a third-year PhD student at the Karlsruhe Institute of Technology in Germany under the supervision of [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html). I expect to obtain my PhD in July 2024. 
