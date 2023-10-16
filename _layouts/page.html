@@ -4,12 +4,6 @@ layout: default
 <article>
   <header><h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1></header>
   {{ content }}
-{% include figure.html
-              path=profile_image_path
-              class=profile_image_class
-              alt=page.profile.image
-              cache_bust=true -%}
-  
 </article>
 
 <script type="text/javascript"
