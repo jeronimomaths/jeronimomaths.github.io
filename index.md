@@ -14,3 +14,15 @@ Here is my <a href="CV_JeronimoGarcia-Mejia.pdf">CV</a>.
 
  
 
+<div class="container">
+  <div class="row">
+  <div id="content" class=""> 
+    Test
+    </div>
+    <div id="image" class=""> 
+<img src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
+    </div>
+    
+
+  </div>
+</div>
