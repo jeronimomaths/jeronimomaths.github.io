@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: pages
 
 profile:
   align: right
