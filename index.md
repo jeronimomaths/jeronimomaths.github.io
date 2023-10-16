@@ -9,7 +9,7 @@ layout: page
     
       </div>
 <div id="image" class=""> 
-<img width="230" height="210" style="margin:16px;" src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
+<img width="230" height="210" src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
     </div>
   </div>
 </div>
