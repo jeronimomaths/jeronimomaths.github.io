@@ -12,20 +12,3 @@ Here is my <a href="CV_JeronimoGarcia-Mejia.pdf">CV</a>.
 
 <img align="left" width="230" height="210" style="margin:16px;" src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
 
- 
-
-
-
-
-<div class="container">
-  <div class="row">
-  <div id="content" class=""> 
-    Test Broadly my research is in geometric group theory. I am mainly interested in the asymptotic geometry of non-positive curved groups and other interesting classes of groups such as nilpotent groups. In particular, I have spent some time thinking about filling functions and finiteness properties of groups.
-    </div>
-    <div id="image" class=""> 
-<img width="230" height="210" style="margin:16px;" src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
-    </div>
-    
-
-  </div>
-</div>
