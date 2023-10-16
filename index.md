@@ -1,5 +1,11 @@
 ---
-layout: pages
+layout: about
+
+profile:
+  align: right
+  image: f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg
+  image_circular: false # crops the image to make it circular
+  
 ---
 <img align="right" width="230" height="210" style="margin:16px;" src="f6ee6879-272f-43c2-82c9-09abacb6e5eb.jpeg">
 
