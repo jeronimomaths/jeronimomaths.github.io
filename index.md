@@ -10,5 +10,5 @@ Broadly my research is in geometric group theory. I am mainly interested in the 
 
 Here is my <a href="CV_JeronimoGarcia-Mejia.pdf">CV</a>.
 
-<img align="left" width="230" height="210" style="margin:16px;" src="IMG_4313.jpeg">
+<img align="left" width="260" height="240" style="margin:16px;" src="IMG_4313.jpeg">
 
