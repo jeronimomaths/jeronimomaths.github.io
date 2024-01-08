@@ -1,7 +1,6 @@
 ---
 layout: page  
 ---
-I am currently on the job market.
 
 I am a third-year PhD student at the Karlsruhe Institute of Technology in Germany under the supervision of [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html). I expect to obtain my PhD in July 2024. 
 
@@ -10,6 +9,8 @@ In 2020 I completed my Master's at the University of Bonn under the supervision 
 Broadly my research is in geometric group theory. I am mainly interested in the asymptotic geometry of non-positive curved groups and other interesting classes of groups such as nilpotent groups. In particular, I have spent some time thinking about filling functions and finiteness properties of groups.
 
 Here is my <a href="CV_JeronimoGarcia-Mejia.pdf">CV</a>.
+
+I am currently on the postdoc job market.
 
 <img align="left" width="300" height="250" style="margin:16px;" src="IMG_4313.jpeg">
 
