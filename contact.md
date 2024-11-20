@@ -3,7 +3,7 @@ layout: page
 title: "Contact"
 ---
 
-Email: jeronimo.garcia (at) kit.edu
+Email: jeronimo.maths (at) gmail (dot) com
 
 <!--Address: Department of Mathematics (20.30) Room 1.012, Englerstraße 2, 76131 Karlsruhe , Germany.-->
 
