@@ -1,8 +1,7 @@
 ---
 layout: page  
 ---
- <link rel="shortcut icon" type="image/x-icon" href="asteroid.png">
- 
+
 I am moving to Oxford this fall. I will be a postdoctoral research associate in the Mathematical Institute at the University of Oxford. I will be working in [Ric Wade](https://people.maths.ox.ac.uk/wade/index.html#)'s team.
 
 In September 2024, I completed my PhD at the Karlsruhe Institute of Technology in Germany under the supervision of [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html). In 2020 I completed my Master's at the University of Bonn under the supervision of [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/). <!--Before that, in 2018, I obtained my Bachelor's at the National Autonomous University of Mexico (UNAM) under the supervision of Carlos Prieto.-->
