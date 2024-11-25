@@ -33,6 +33,7 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jemoji
  
 markdown: redcarpet
 
