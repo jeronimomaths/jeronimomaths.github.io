@@ -5,8 +5,8 @@ title: "Research"
 
 # Preprints
 
-* _Random Dehn function of groups_. (2024) With Antoine Goldsborough. _Submitted_, [arXiv][RandomDehn]
-* _On the Dehn functions of central products of nilpotent groups_. (2023) With Claudio Llosa Isenrich and Gabriel Pallier. _Submitted_, [arXiv][CentralDehn].
+* _Random Dehn function of groups_. (2024) With Antoine Goldsborough. _Submitted_, [arXiv:2411.12715][RandomDehn]
+* _On the Dehn functions of central products of nilpotent groups_. (2023) With Claudio Llosa Isenrich and Gabriel Pallier. _Submitted_, [arXiv:2310.11144][CentralDehn].
 
 
 [CentralDehn]: https://arxiv.org/abs/2310.11144
