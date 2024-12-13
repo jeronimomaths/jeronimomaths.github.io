@@ -10,7 +10,5 @@ My research is in geometric group theory. I am mainly interested in the asymptot
 
 Here is my <a href="newtemplate/CV_GarciaMejia.pdf">CV</a>.
 
-<!--I will be moving to Oxford to start be a postdoctoral research associate in geometric group theory, working in [Ric Wade](https://people.maths.ox.ac.uk/wade/index.html#)'s team.-->
-
 <img align="left" width="300" height="250" style="margin:16px;" src="IMG_4313.jpeg">
 
