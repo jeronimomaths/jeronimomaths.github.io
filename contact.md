@@ -9,4 +9,4 @@ Email: jeronimo.maths (at) gmail (dot) com
 
 <!--[Institutional website]( https://www.math.kit.edu/iag2/~garcia/en)-->
 
-<img src="/Thin.png" width="220" height="190"> 
+<center><img src="/Thin.png" width="220" height="190"></center>
