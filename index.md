@@ -6,7 +6,7 @@ I am a postdoctoral research associate in the Mathematical Institute at the Univ
 
 In September 2024, I completed my PhD at the Karlsruhe Institute of Technology in Germany under the supervision of [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html). In 2020 I completed my Master's at the University of Bonn under the supervision of [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/). Before that I obtained my Bachelor's at the National Autonomous University of Mexico (UNAM).
 
-My research is in geometric group theory. I am mainly interested in the asymptotic geometry of non-positive curved groups and other interesting classes of groups such as nilpotent groups. In particular, I have spent some time thinking about filling functions and finiteness properties of groups.
+My research is on geometric group theory. In particular, I am interested in ideas involving combinatorial algebra, topology, and geometry for the study of infinite groups. My work includes exploring topics such as filling functions of groups —specifically their Dehn functions—, the larges cale geometry of nilpotent groups, and the automorphism groups of right-angled Artin groups.
 
 Here is my <a href="newtemplate/CV_GarciaMejia.pdf">CV</a>.
 
