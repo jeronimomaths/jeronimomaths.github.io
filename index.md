@@ -8,7 +8,7 @@ In September 2024, I completed my PhD at the Karlsruhe Institute of Technology i
 
 My research is on geometric group theory. In particular, I am interested in ideas involving combinatorial algebra, topology, and geometry for the study of infinite groups. My work includes exploring topics such as filling functions of groups —specifically their Dehn functions—, the large scale geometry of nilpotent groups, and the automorphism groups of right-angled Artin groups.
 
-Here is my <a href="newtemplate/CV_GarciaMejia.pdf">CV</a>.
+Here is my <a href="CV/CV_GarciaMejia.pdf">CV</a>.
 
 <img align="left" width="300" height="250" style="margin:16px;" src="IMG_4313.jpeg">
 
