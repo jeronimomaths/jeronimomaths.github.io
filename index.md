@@ -10,7 +10,7 @@ My research is on geometric group theory. In particular, I am interested in idea
 
 Here is my <a href="CV/CV_GarciaMejia.pdf">CV</a>.
 
-<i>Note: My official name is Jerónimo García Mejía but for publications I go with Jerónimo García-Mejía. </i>
+<small><i>Note: My official name is Jerónimo García Mejía but for publications I go with Jerónimo García-Mejía. </i></small>
 
 <img align="left" width="300" height="250" style="margin:16px;" src="IMG_4313.jpeg">
 
