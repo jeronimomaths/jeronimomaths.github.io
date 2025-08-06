@@ -5,7 +5,7 @@ title: "Research"
 
 # Preprints
 
-* <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. (2025) With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). [<b>arXiv</b>][BBkernels].
+* <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. (2025) With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). _Submitted_, [<b>arXiv</b>][BBkernels].
 
 * <em>Random Dehn function of groups</em>. (2024) With [Antoine Goldsborough](https://www.antoinegoldsborough.com). _Submitted_, [<b>arXiv</b>][RandomDehn].
 
