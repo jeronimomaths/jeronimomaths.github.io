@@ -14,7 +14,7 @@ title: "Research"
 
 # Publications
 
-* <em>Random Dehn function of groups</em>. With [Antoine Goldsborough](https://www.antoinegoldsborough.com). To appear in <b>Journal of Topology and Analysis</b>. [journal][RandomDehn], [arXiv][RandomDehn-arxiv].
+* <em>Random Dehn function of groups</em>. With [Antoine Goldsborough](https://www.antoinegoldsborough.com). To appear in <b>Journal of Topology and Analysis</b>. [Journal][RandomDehn], [arXiv][RandomDehn-arxiv].
 
 [RandomDehn]: https://doi.org/10.1142/S179352532550027X
 [RandomDehn-arxiv]: https://arxiv.org/abs/2411.12715
