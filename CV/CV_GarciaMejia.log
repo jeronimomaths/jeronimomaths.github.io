@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.29)  11 JUL 2025 14:17
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.29)  21 AUG 2025 13:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -557,7 +557,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 138.
 [1
 
-] [2] [3] (./CV_GarciaMejia.aux)
+] [2] [3] [4] (./CV_GarciaMejia.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -572,4 +572,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  94i,6n,107p,1203b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on CV_GarciaMejia.pdf (3 pages).
+Output written on CV_GarciaMejia.pdf (4 pages).
