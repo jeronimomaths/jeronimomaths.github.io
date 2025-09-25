@@ -8,7 +8,7 @@ In September 2024, I completed my PhD at the Karlsruhe Institute of Technology i
 
 My research lies at the intersection of group theory, geometric topology, and metric geometry, placing it within the area of geometric group theory. I am particularly interested in the large scale geometry of infinite groups and spaces, especially through invariants such as quasi-isometry invariants. This is in part motivated by the conjectural quasi-isometry classification of nilpotent groups.
 
-Much of my work has focused on the study of filling functions of groups and space, such as the Dehn function, a fundamental quasi-isometry invariant of groups. More recently, I have been interested in studying automorphism groups of non-positively curved groups, including right-angled Artin groups.
+Much of my work has focused on the study of filling functions, such as the Dehn function, a fundamental quasi-isometry invariant of groups. More recently, I have been interested in studying automorphism groups of non-positively curved groups, including right-angled Artin groups.
 
 Here is my <a href="CV/CV_GarciaMejia.pdf">CV</a>.
 
