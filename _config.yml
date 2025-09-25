@@ -5,7 +5,7 @@ plugins:
 
 title: "Jerónimo García-Mejía"
 author: "Jerónimo García-Mejía"
-description: "Jerónimo García-Mejía <small>(he/him, they/them)</small> "
+description: "Jerónimo García-Mejía <small>(he/him/his, they/them/theirs)</small> "
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
