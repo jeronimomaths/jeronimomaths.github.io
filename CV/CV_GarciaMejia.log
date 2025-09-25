@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.29)  22 AUG 2025 13:42
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.29)  25 SEP 2025 13:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -550,11 +550,11 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 135.
+(Font)              <10.95> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 135.
+(Font)              <8> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 135.
+(Font)              <6> on input line 134.
 [1
 
 ] [2] [3] [4] (./CV_GarciaMejia.aux)
@@ -564,12 +564,12 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16518 strings out of 474773
- 302757 string characters out of 5757723
- 1941839 words of memory out of 5000000
- 38491 multiletter control sequences out of 15000+600000
+ 16517 strings out of 474773
+ 302703 string characters out of 5757723
+ 1939839 words of memory out of 5000000
+ 38490 multiletter control sequences out of 15000+600000
  576257 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,6n,107p,1203b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,6n,107p,1203b,416s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on CV_GarciaMejia.pdf (4 pages).
