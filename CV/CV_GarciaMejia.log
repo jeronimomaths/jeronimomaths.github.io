@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.29)  26 SEP 2025 10:48
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.29)  29 SEP 2025 10:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -555,6 +555,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 134.
+
+Underfull \hbox (badness 1478) in paragraph at lines 143--144
+[]\TU/lmr/m/n/10.95 Jerónimo García-Mejía, Claudio Llosa Isenrich and Gabriel P
+allier \TU/lmr/m/it/10.95 On Dehn
+ []
+
 [1
 
 ] [2] [3] [4] (./CV_GarciaMejia.aux)
