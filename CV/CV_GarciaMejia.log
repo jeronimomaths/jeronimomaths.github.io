@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.2)  3 OCT 2025 15:32
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.2)  3 OCT 2025 15:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -560,7 +560,9 @@ allier \TU/lmr/m/it/10.95 On Dehn
 
 [1
 
-] [2] [3]
+] [2]
+
+[3]
 
 [4] (./CV_GarciaMejia.aux)
  ***********
