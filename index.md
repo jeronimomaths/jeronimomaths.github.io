@@ -2,7 +2,7 @@
 layout: page  
 ---
 
-I will be moving to the [<b>University of Warwick</b>](https://warwick.ac.uk/fac/sci/maths/) to be a Research Fellow working in [Ric Wade](https://warwick.ac.uk/fac/sci/maths/people/staff/Wade)'s team. I was a Postdoctoral research associate at the [<b>Mathematical Institute, University of Oxford</b>](https://www.maths.ox.ac.uk), also working in Ric Wade's team. 
+I will be moving to the [<b>University of Warwick</b>](https://warwick.ac.uk/fac/sci/maths/) to be a Research Fellow working in [Ric Wade](https://warwick.ac.uk/fac/sci/maths/people/staff/Wade)'s team. I am a Postdoctoral research associate at the [<b>Mathematical Institute, University of Oxford</b>](https://www.maths.ox.ac.uk) working in Ric Wade's team. 
 
 In September 2024, I completed my PhD at the [<b>Karlsruhe Institute of Technology</b>](https://www.math.kit.edu/iag/) in Germany under the supervision of [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html). In 2020 I completed my Master's at the University of Bonn under the supervision of [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/). Before that I obtained my Bachelor's at the National Autonomous University of Mexico (UNAM).
 
