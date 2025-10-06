@@ -3,7 +3,7 @@ layout: page
 title: "Contact"
 ---
 
-Email: jeronimo [dot] garcia-mejia [at] maths [dot] ox [dot] ac [dot] uk <!--jeronimo.maths (at) gmail (dot) com-->
+Email: jeronimo.garcia-mejia@maths.ox.ac.uk <!--jeronimo.maths (at) gmail (dot) com-->
 
 Address: Mathematical Institute, University of Oxford, Andrew Wiles Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford, OX2 6GG
 
