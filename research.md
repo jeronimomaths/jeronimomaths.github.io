@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 ---
 
-In this [Case study](https://www.maths.ox.ac.uk/node/74266) I wrote a text about my research aimed at a large mathematical audience.
+In this [Case study](https://www.maths.ox.ac.uk/node/74266) I wrote about my research aimed at a large mathematical audience.
 
 # Preprints
 
