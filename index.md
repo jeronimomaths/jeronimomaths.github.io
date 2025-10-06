@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About me   
+title:   
 ---
+
+# About me 
 
 I will be moving to the [<b>University of Warwick</b>](https://warwick.ac.uk/fac/sci/maths/) to be a Research Fellow working in [Ric Wade](https://warwick.ac.uk/fac/sci/maths/people/staff/Wade)'s team. I am a Postdoctoral research associate at the [<b>Mathematical Institute, University of Oxford</b>](https://www.maths.ox.ac.uk) working in Ric Wade's team. 
 
@@ -13,7 +15,7 @@ My research lies at the intersection of Group Theory, Geometric Topology, and Ge
 
 <!---Much of my work has focused on the study of filling functions, such as the Dehn function, a fundamental quasi-isometry invariant of groups.---> 
 
-I wrote a short introduction about Dehn functions and one of my recent projects. This can be found [here](https://www.maths.ox.ac.uk/node/74266). 
+I wrote a short text about Dehn functions and one of my recent projects aimed at a large mathematical audience. This can be found [here](https://www.maths.ox.ac.uk/node/74266). 
 
 <!---More recently, I have been interested in automorphism groups of non-positively curved groups, including right-angled Artin groups.--->
 
