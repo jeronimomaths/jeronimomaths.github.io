@@ -11,7 +11,7 @@ I completed my PhD at the [<b>Karlsruhe Institute of Technology</b>](https://www
 
 # Research interests
 
-My research lies at the intersection of Group Theory, Geometric Topology, and Geometry, placing it within the area of Geometric Group Theory. I am particularly interested in filling functions of groups, in particular their Dehn functions, nilpotent groups and their quasi-isometry classification, and automorphism groups of non-positively curved groups, including right-angled Artin groups.<!---the large scale geometry of infinite groups and spaces, especially through invariants such as quasi-isometry invariants. This is in part motivated by the conjectural quasi-isometry classification of nilpotent groups.--->
+My research lies at the intersection of Group Theory, Geometric Topology, and Geometry, placing it within the area of Geometric Group Theory. I am interested in filling functions of groups, in particular their Dehn functions, nilpotent groups and their quasi-isometry classification, and automorphism groups of non-positively curved groups, including right-angled Artin groups.<!---the large scale geometry of infinite groups and spaces, especially through invariants such as quasi-isometry invariants. This is in part motivated by the conjectural quasi-isometry classification of nilpotent groups.--->
 
 <!---Much of my work has focused on the study of filling functions, such as the Dehn function, a fundamental quasi-isometry invariant of groups.---> 
 
