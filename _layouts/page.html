@@ -12,7 +12,12 @@
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">--- layout: default ---</span></p>
-<p class="p1"><span class="s1">{{ content }}</span></p>
+<p class="p1"><span class="s1">---</span></p>
+<p class="p1"><span class="s1">layout: default</span></p>
+<p class="p1"><span class="s1">---</span></p>
+<p class="p1"><span class="s1">&lt;article&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% include meta.html post=page %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ content }}</span></p>
+<p class="p1"><span class="s1">&lt;/article&gt;</span></p>
 </body>
 </html>
