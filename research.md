@@ -3,8 +3,6 @@ layout: page
 title: "Research"
 ---
 
-In this [Case study](https://www.maths.ox.ac.uk/node/74266) I wrote about my research aimed at a large mathematical audience.
-
 # Preprints
 
 * <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. (2025) With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). _Submitted_, [<b>arXiv</b>][BBkernels].
