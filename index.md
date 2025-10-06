@@ -7,9 +7,7 @@ I will be moving to the [<b>University of Warwick</b>](https://warwick.ac.uk/fac
 
 I completed my PhD at the [<b>Karlsruhe Institute of Technology</b>](https://www.math.kit.edu/iag/) in Germany under the supervision of [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html). Before that I did my Master's at the University of Bonn where I wrote my master's thesis under the supervision of [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/). I obtained my Bachelor's at the National Autonomous University of Mexico (UNAM).
 
-<h3><b> Research interests </b></h3>
-
-My research lies at the intersection of Group Theory, Geometric Topology, and Geometry, placing it within the area of Geometric Group Theory. I am interested in filling functions of groups, in particular their Dehn functions, nilpotent groups and their quasi-isometry classification, and automorphism groups of non-positively curved groups, including right-angled Artin groups.<!---the large scale geometry of infinite groups and spaces, especially through invariants such as quasi-isometry invariants. This is in part motivated by the conjectural quasi-isometry classification of nilpotent groups.--->
+<h3><b> Research interests </b></h3> My research lies at the intersection of Group Theory, Geometric Topology, and Geometry, placing it within the area of Geometric Group Theory. I am interested in filling functions of groups, in particular their Dehn functions, nilpotent groups and their quasi-isometry classification, and automorphism groups of non-positively curved groups, including right-angled Artin groups.<!---the large scale geometry of infinite groups and spaces, especially through invariants such as quasi-isometry invariants. This is in part motivated by the conjectural quasi-isometry classification of nilpotent groups.--->
 
 <!---Much of my work has focused on the study of filling functions, such as the Dehn function, a fundamental quasi-isometry invariant of groups.---> 
 
