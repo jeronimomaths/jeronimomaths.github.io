@@ -13,7 +13,7 @@ My research lies at the intersection of Group Theory, Geometric Topology, and Ge
 
 <!---Much of my work has focused on the study of filling functions, such as the Dehn function, a fundamental quasi-isometry invariant of groups.---> 
 
-I wrote a short introduction about Dehn functions and one of my recent projects regarding them. This can be found [here](https://www.maths.ox.ac.uk/node/74266). 
+I wrote a short introduction about Dehn functions and one of my recent projects. This can be found [here](https://www.maths.ox.ac.uk/node/74266). 
 
 <!---More recently, I have been interested in automorphism groups of non-positively curved groups, including right-angled Artin groups.--->
 
