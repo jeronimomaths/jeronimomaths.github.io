@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<h2><b> Research interests </b></h2> 
+<h2><b> About me </b></h2> 
 
 I will be moving to the [<b>University of Warwick</b>](https://warwick.ac.uk/fac/sci/maths/) to be a Research Fellow working in [Ric Wade](https://warwick.ac.uk/fac/sci/maths/people/staff/Wade)'s team. I am a Postdoctoral research associate at the [<b>Mathematical Institute, University of Oxford</b>](https://www.maths.ox.ac.uk) working in Ric Wade's team. 
 
