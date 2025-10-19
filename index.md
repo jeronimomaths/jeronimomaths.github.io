@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me 
 ---
+<h2><b> Research interests </b></h2> 
 
 I will be moving to the [<b>University of Warwick</b>](https://warwick.ac.uk/fac/sci/maths/) to be a Research Fellow working in [Ric Wade](https://warwick.ac.uk/fac/sci/maths/people/staff/Wade)'s team. I am a Postdoctoral research associate at the [<b>Mathematical Institute, University of Oxford</b>](https://www.maths.ox.ac.uk) working in Ric Wade's team. 
 
@@ -9,7 +9,7 @@ I completed my PhD at the [<b>Karlsruhe Institute of Technology</b>](https://www
 
 <img align="left" width="300" height="250" style="margin:16px;" src="IMG_4313.jpeg">
 
-<h1><b> Research interests </b></h1> 
+<h2><b> Research interests </b></h2> 
 
 My research lies at the intersection of Group Theory, Geometric Topology, and Geometry, placing it within the area of Geometric Group Theory. I am interested in filling functions of groups, in particular their Dehn functions, nilpotent groups and their quasi-isometry classification, and automorphism groups of non-positively curved groups, including right-angled Artin groups.<!---the large scale geometry of infinite groups and spaces, especially through invariants such as quasi-isometry invariants. This is in part motivated by the conjectural quasi-isometry classification of nilpotent groups.--->
 
