@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: assets/IMG4313.jpeg
+  image: IMG4313.jpeg
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -22,7 +22,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<h2><b> About me </b></h2> 
+<!--<h2><b> About me </b></h2>-->
 
 I will be moving to the [<b>University of Warwick</b>](https://warwick.ac.uk/fac/sci/maths/) to be a Research Fellow working in [Ric Wade](https://warwick.ac.uk/fac/sci/maths/people/staff/Wade)'s team. I am a Postdoctoral research associate at the [<b>Mathematical Institute, University of Oxford</b>](https://www.maths.ox.ac.uk) working in Ric Wade's team. 
 
