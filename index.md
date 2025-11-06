@@ -6,7 +6,7 @@ layout: page
 
 <h2> About me </h2> 
 
-I am a Research Fellow at the [<b>University of Warwick</b>](https://warwick.ac.uk/fac/sci/maths/) working in [Ric Wade](https://warwick.ac.uk/fac/sci/maths/people/staff/Wade)'s team. Before that I was a Postdoctoral research associate at the [<b>Mathematical Institute, University of Oxford</b>](https://www.maths.ox.ac.uk) working in Ric Wade's team. 
+I am a Research Fellow at the [<b>Mathematics Institute, University of Warwick</b>](https://warwick.ac.uk/fac/sci/maths/) working in [Ric Wade](https://warwick.ac.uk/fac/sci/maths/people/staff/Wade)'s team. Before that I was a Postdoctoral Research Associate at the [<b>Mathematical Institute, University of Oxford</b>](https://www.maths.ox.ac.uk) also working in Ric Wade's team. 
 
 I completed my PhD at the [<b>Karlsruhe Institute of Technology</b>](https://www.math.kit.edu/iag/) in Germany under the supervision of [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html). Before that I did my Master's at the University of Bonn where I wrote my master's thesis under the supervision of [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/). I obtained my Bachelor's at the National Autonomous University of Mexico (UNAM).
 
