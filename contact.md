@@ -10,4 +10,4 @@ Address: Mathematics Institute, Zeeman Building, University of Warwick, Coventry
 [Institutional website](https://warwick.ac.uk/fac/sci/maths/people/staff/garciamejia)
 
 
-<center><img src="/Thin.png" width="220" height="190"></center>
+<center><img src="/assets/Thin.png" width="220" height="190"></center>

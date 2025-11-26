@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img align="right" width="300" height="250" style="margin:16px;" src="IMG_4313.jpeg">
+<img align="right" width="300" height="250" style="margin:16px;" src="/assets/IMG_4313.jpeg">
 
 <h2> About me </h2> 
 
