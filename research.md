@@ -15,7 +15,7 @@ title: "Research"
 
 * <em>On the Dehn functions of central products of nilpotent groups</em>. (2023) With [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html) and [Gabriel Pallier](https://gpallier.github.io). To appear in <b>Trans. Amer. Math. Soc.</b>, [(arXiv)][CentralDehn].
 
-* <em>Random Dehn function of groups</em>. With [Antoine Goldsborough](https://www.antoinegoldsborough.com). [<b>{color: dark} J. Topol. Anal.</b>][RandomDehn] [(arXiv)][RandomDehn-arxiv].
+* <em>Random Dehn function of groups</em>. With [Antoine Goldsborough](https://www.antoinegoldsborough.com). [<b>{color: black} J. Topol. Anal.</b>][RandomDehn] [(arXiv)][RandomDehn-arxiv].
 
 [RandomDehn]: https://doi.org/10.1142/S179352532550027X
 [RandomDehn-arxiv]: https://arxiv.org/abs/2411.12715
