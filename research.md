@@ -3,8 +3,6 @@ layout: page
 title: "Research"
 ---
 
-<!–– Preprints ––>
-
 # Publications
 
 * <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. (2025) With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). To appear in <b> GAFA </b>, [<b>arXiv</b>][BBkernels].
