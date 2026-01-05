@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.2)  11 DEC 2025 11:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.2)  5 JAN 2026 16:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count192
 \c@section=\count193
@@ -513,23 +513,23 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(82.75394pt, 432.0pt, 82.75394pt)
-* v-part:(T,H,B)=(60.49995pt, 698.98755pt, 85.55934pt)
+* h-part:(L,W,R)=(94.75394pt, 408.0pt, 94.75394pt)
+* v-part:(T,H,B)=(76.58502pt, 660.1549pt, 108.30692pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=432.0pt
-* \textheight=698.98755pt
-* \oddsidemargin=10.48395pt
-* \evensidemargin=10.48395pt
-* \topmargin=-48.77003pt
+* \textwidth=408.0pt
+* \textheight=660.1549pt
+* \oddsidemargin=22.48395pt
+* \evensidemargin=22.48395pt
+* \topmargin=-32.68497pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -540,26 +540,52 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (18.79134pt too wide) in alignment at lines 84--96
+Overfull \hbox (14.33858pt too wide) in alignment at lines 65--70
  [] [] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 150.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 150.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 150.
+
+Overfull \hbox (14.33858pt too wide) in alignment at lines 84--96
+ [] [] 
+ []
+
+
+Overfull \hbox (14.33858pt too wide) in alignment at lines 104--119
+ [] [] 
+ []
+
+
+Overfull \hbox (14.33858pt too wide) in alignment at lines 127--131
+ [] [] 
+ []
+
 
 
 [1
 
 ] [2]
-Overfull \hbox (18.79134pt too wide) in alignment at lines 268--276
+Overfull \hbox (42.79134pt too wide) in alignment at lines 270--278
+ [] [] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 288.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 288.
+
+Overfull \hbox (18.79134pt too wide) in paragraph at lines 286--289
+[]$[]$ 
+ []
+
+
+Overfull \hbox (20.02904pt too wide) in alignment at lines 290--300
  [] [] 
  []
 
 
+Overfull \hbox (20.02904pt too wide) in alignment at lines 308--317
+ [] [] 
+ []
 
 [3]
 
@@ -570,12 +596,12 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16436 strings out of 473832
- 300324 string characters out of 5729481
- 749819 words of memory out of 5000000
- 39329 multiletter control sequences out of 15000+600000
- 577025 words of font info for 61 fonts, out of 8000000 for 9000
+ 16420 strings out of 473832
+ 300144 string characters out of 5729481
+ 749777 words of memory out of 5000000
+ 39318 multiletter control sequences out of 15000+600000
+ 574286 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,6n,107p,1203b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,6n,107p,1203b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on CV_GarciaMejia.pdf (4 pages).
