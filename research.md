@@ -5,11 +5,11 @@ title: "Research"
 
 # Publications
 
-* <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. (2025) With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). To appear in <b> GAFA </b>, [arXiv][BBkernels], [case study](https://www.maths.ox.ac.uk/node/74266).
+* <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. (2025) With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). To appear in <b> GAFA </b>, [<b>arXiv</b>][BBkernels], [case study](https://www.maths.ox.ac.uk/node/74266).
 
-* <em>On the Dehn functions of central products of nilpotent groups</em>. (2023) With [Claudio Llosa Isenrich](https://www.claudiollosa.com) and [Gabriel Pallier](https://gpallier.github.io). To appear in <b>Trans. Amer. Math. Soc.</b>, [arXiv][CentralDehn].
+* <em>On the Dehn functions of central products of nilpotent groups</em>. (2023) With [Claudio Llosa Isenrich](https://www.claudiollosa.com) and [Gabriel Pallier](https://gpallier.github.io). To appear in <b>Trans. Amer. Math. Soc.</b>, [<b>arXiv</b>][CentralDehn].
 
-* <em>Random Dehn function of groups</em>. With [Antoine Goldsborough](https://www.antoinegoldsborough.com). <b> J. Topol. Anal.</b>, [journal][RandomDehn], [arXiv][RandomDehn-arxiv].
+* <em>Random Dehn function of groups</em>. With [Antoine Goldsborough](https://www.antoinegoldsborough.com). <b> J. Topol. Anal.</b>, [journal][RandomDehn], [<b>arXiv</b>][RandomDehn-arxiv].
 
 [CentralDehn]: https://arxiv.org/abs/2310.11144
 [RandomDehn]: https://doi.org/10.1142/S179352532550027X
