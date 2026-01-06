@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.2)  6 JAN 2026 10:38
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.2)  6 JAN 2026 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -540,22 +540,22 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (14.33858pt too wide) in alignment at lines 65--70
+Overfull \hbox (14.33858pt too wide) in alignment at lines 65--71
  [] [] 
  []
 
 
-Overfull \hbox (14.33858pt too wide) in alignment at lines 84--98
+Overfull \hbox (14.33858pt too wide) in alignment at lines 85--97
  [] [] 
  []
 
 
-Overfull \hbox (14.33858pt too wide) in alignment at lines 106--121
+Overfull \hbox (14.33858pt too wide) in alignment at lines 105--120
  [] [] 
  []
 
 
-Overfull \hbox (14.33858pt too wide) in alignment at lines 129--133
+Overfull \hbox (14.33858pt too wide) in alignment at lines 128--132
  [] [] 
  []
 
@@ -564,46 +564,44 @@ Overfull \hbox (14.33858pt too wide) in alignment at lines 129--133
 [1
 
 ] [2]
-Overfull \hbox (42.79134pt too wide) in alignment at lines 272--280
+Overfull \hbox (42.79134pt too wide) in alignment at lines 271--279
  [] [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 290.
+(Font)              <7> on input line 289.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 290.
+(Font)              <5> on input line 289.
 
-Overfull \hbox (18.79134pt too wide) in paragraph at lines 288--291
+Overfull \hbox (18.79134pt too wide) in paragraph at lines 287--290
 []$[]$ 
  []
 
 
-Overfull \hbox (20.02904pt too wide) in alignment at lines 292--302
+Overfull \hbox (20.02904pt too wide) in alignment at lines 291--301
  [] [] 
  []
 
 
-Overfull \hbox (20.02904pt too wide) in alignment at lines 310--319
+Overfull \hbox (20.02904pt too wide) in alignment at lines 309--318
  [] [] 
  []
 
 
 
-[3]
-
-[4] (./CV_GarciaMejia.aux)
+[3] (./CV_GarciaMejia.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16420 strings out of 473832
- 300144 string characters out of 5729481
- 748777 words of memory out of 5000000
+ 16419 strings out of 473832
+ 300106 string characters out of 5729481
+ 749777 words of memory out of 5000000
  39318 multiletter control sequences out of 15000+600000
  574286 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,6n,107p,1203b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,6n,107p,1203b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on CV_GarciaMejia.pdf (4 pages).
+Output written on CV_GarciaMejia.pdf (3 pages).
