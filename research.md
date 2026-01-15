@@ -3,8 +3,7 @@ layout: page
 title: "Research"
 ---
 
-# Publications
-
+<h2> Publications </h2>
 * <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). To appear in <b> Geometric and Functional Analysis </b>, [<b>arXiv</b>][BBkernels], [case study](https://www.maths.ox.ac.uk/node/74266).
 
 * <em>On the Dehn functions of central products of nilpotent groups</em>. With [Claudio Llosa Isenrich](https://www.claudiollosa.com) and [Gabriel Pallier](https://gpallier.github.io). To appear in <b>Transactions of the American Mathematical Society</b>, [<b>arXiv</b>][CentralDehn].
