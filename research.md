@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Research"
 ---
 
 <h2> Publications </h2>
