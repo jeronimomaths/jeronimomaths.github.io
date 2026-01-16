@@ -29,6 +29,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jeronimo.garcia-mejia@warwick.ac.uk"}
+  - {title: ORCiD, icon: orcid, urlL "https://orcid.org/0009-0008-7026-6548"}
   #- {title: Github, icon: github, url: "https://github.com/jeronimomaths"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
