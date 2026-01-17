@@ -29,7 +29,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons + Academicons
   - {title: Mail, icon: envelope, url: "mailto:jeronimo.garcia-mejia@warwick.ac.uk"}
-  - {titel: arXiv, icon: <i class="ai ai-arxiv-square ai-2x"></i>, url: "http://arxiv.org/a/garciamejia_j_1"}
+  #- {titel: arXiv, icon: <i class="ai ai-arxiv-square ai-2x"></i>, url: "http://arxiv.org/a/garciamejia_j_1"}
+  <li><a href="http://arxiv.org/a/garciamejia_j_1" title= "arXiv page"><use xlink:href="assets/fonts/academicons.svg#arxiv"></use></svg></a></li>
   - {title: ORCiD, icon: orcid, url: "https://orcid.org/0009-0008-7026-6548"}
   #- {title: Github, icon: github, url: "https://github.com/jeronimomaths"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
