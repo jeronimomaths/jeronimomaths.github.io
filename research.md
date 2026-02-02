@@ -7,7 +7,7 @@ title: "Research"
 
 * <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). <br> <b> Geometric and Functional Analysis (2026)</b>, [journal][BBkernels], [<b>arXiv</b>][BBkernels-arxiv], [case study](https://www.maths.ox.ac.uk/node/74266).
 
-* <em>On the Dehn functions of central products of nilpotent groups</em>. With [Claudio Llosa Isenrich](https://www.claudiollosa.com) and [Gabriel Pallier](https://gpallier.github.io). <br> <b>Transactions of the American Mathematical Society (2025)</b>, [journal][CentralDehn], [<b>arXiv</b>][CentralDehn-arxiv].
+* <em>On the Dehn functions of central products of nilpotent groups</em>. With [Claudio Llosa Isenrich](https://www.claudiollosa.com) and [Gabriel Pallier](https://gpallier.github.io). <br> <b>Transactions of the American Mathematical Society (2026)</b>, [journal][CentralDehn], [<b>arXiv</b>][CentralDehn-arxiv].
 
 * <em>Random Dehn function of groups</em>. With [Antoine Goldsborough](https://www.antoinegoldsborough.com). <br> <b> Journal of Topology and Analysis (2025)</b>, [journal][RandomDehn], [<b>arXiv</b>][RandomDehn-arxiv].
 
