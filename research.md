@@ -18,4 +18,4 @@ title: "Research"
 [CentralDehn]: https://doi.org/10.1090/tran/9708
 
 [BBkernels-arxiv]: https://arxiv.org/abs/2507.07566 
-[BBkernels]: https://link.springer.com/article/10.1007/s00039-026-00731-7 
+[BBkernels]: https://doi.org/10.1007/s00039-026-00731-7
