@@ -20,7 +20,7 @@ I wrote a short text about Dehn functions and one of my recent projects aimed at
 
 <!--More recently, I have been interested in automorphism groups of non-positively curved groups, including right-angled Artin groups.-->
 
-For further information, see my <a href="CV/CV_GarciaMejia.pdf">CV</a>.
+For further information, see my <a href="CV/cv-GarciaMejia.pdf">CV</a>.
 
-<small><i>Note: My official name is Jerónimo García Mejía. For publications I go with Jerónimo García-Mejía. </i></small>
+<small><i>Note: My official name is Jerónimo García Mejía. For publications, I go with Jerónimo García-Mejía. </i></small>
 
