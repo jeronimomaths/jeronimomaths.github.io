@@ -6,7 +6,9 @@
   <a href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
     {%- if item.icon -%}
     {%- if item.icon contains 'ai-' -%}
-      <svg xlink:href="{{ '/assets/fonts/academicons.svg' | relative_url }}#{{ item.icon }}"></svg>
+      <svg aria-label="{{ title }}" class="icon">
+        <use xlink:href="{{ '/assets/fonts/academicons.svg' | relative_url }}#{{ item.icon }}"></use>
+      </svg>
     {%- else -%}
       <svg aria-label="{{ title }}" class="icon">
         <use xlink:href="{{ '/assets/fontawesome/icons.svg' | relative_url }}#{{ item.icon }}"></use>
