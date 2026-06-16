@@ -28,9 +28,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "misc.md", title: "Miscellaneous"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, prefix: fa, url: "mailto:jeronimo.garcia-mejia@warwick.ac.uk"}
-  - {title: ORCiD, icon: orcid, prefix: fa, url: "https://orcid.org/0009-0008-7026-6548"}
-  - {title: arXiv, icon: arxiv, prefix: ai, url: "http://arxiv.org/a/garciamejia_j_1"}
+  -{title: Mail, icon_class: "fa-solid fa-envelope", url: "mailto:jeronimo.garcia-mejia@warwick.ac.uk"}
+  - {title: ORCiD, icon_class:"fa-brand fa-orcid", url: "https://orcid.org/0009-0008-7026-6548"}
+  - {title: arXiv, icon_class: "ai ai-arxiv", url: "http://arxiv.org/a/garciamejia_j_1"}
   #- {title: Github, icon: github, url: "https://github.com/jeronimomaths"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
