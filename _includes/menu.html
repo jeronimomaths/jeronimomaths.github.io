@@ -4,8 +4,8 @@
   {%- assign url = item.url | default: node.url -%}
   {%- assign title = item.title | default: node.title -%}
 
-  <a href="{% if url contains '://' or url starts_with: 'mailto:' %}{{ url }}{% else %}{{ url | relative_url }}{% endif %}"
-     {% if url == page.url %}class="selected"{% endif %}>
+  <a href="{% if url contains '://' or url contains 'mailto:' %}{{ url }}{% else %}{{ url | relative_url }}{% endif %}"
+   {% if url == page.url %}class="selected"{% endif %}>
 
     {%- if item.icon_class -%}
       <i class="{{ item.icon_class }}" aria-hidden="true"></i>
