@@ -1,8 +1,4 @@
-<<<<<<< HEAD:CV/CV_GarciaMejia.log
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.23)  29 APR 2026 16:25
-=======
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.2)  19 MAY 2026 15:39
->>>>>>> b7ed75a (updated cv):CV/cv-GarciaMejia.log
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.2)  29 JUL 2026 09:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -524,21 +520,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 ] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-<<<<<<< HEAD:CV/CV_GarciaMejia.log
-(Font)              <7> on input line 320.
+(Font)              <7> on input line 324.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 320.
- [3]
+(Font)              <5> on input line 324.
 
-[4] (./CV_GarciaMejia.aux)
-=======
-(Font)              <7> on input line 317.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 317.
- [3]
+
+[3]
 
 [4] (./cv-GarciaMejia.aux)
->>>>>>> b7ed75a (updated cv):CV/cv-GarciaMejia.log
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -553,8 +542,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  94i,6n,107p,1203b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-<<<<<<< HEAD:CV/CV_GarciaMejia.log
-Output written on CV_GarciaMejia.pdf (4 pages).
-=======
 Output written on cv-GarciaMejia.pdf (4 pages).
->>>>>>> b7ed75a (updated cv):CV/cv-GarciaMejia.log
