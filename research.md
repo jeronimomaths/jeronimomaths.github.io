@@ -14,7 +14,7 @@ title: "Research"
 [RandomDehn]: https://doi.org/10.1142/S179352532550027X
 [RandomDehn-arxiv]: https://arxiv.org/abs/2411.12715
 
-[CentralDehn-arxiv]: https://arxiv.org/abs/2310.11144
+[CentralDehn-arxiv]: https://arxiv.org/abs/2310.11144v3
 [CentralDehn]: https://doi.org/10.1090/tran/9708
 
 [BBkernels-arxiv]: https://arxiv.org/abs/2507.07566 
