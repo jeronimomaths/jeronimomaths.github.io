@@ -14,7 +14,7 @@ I am one of the organisers of the Warwick [Geometry and Topology seminar](https:
 
 <h2> Research interests </h2> 
 
-I study infinite groups from a geometric perspective. I use topological, combinatorial, and geometrical techniques to understand them. My research area is within Geometric Group Theory. I am particularly interested in automorphism groups of non-positively curved groups, as well as the geometry of their subgroups, and the quasi-isometry classification of nilpotent groups.
+I study infinite groups from a geometric perspective. I use topological, combinatorial, and geometrical techniques to understand them. My research area is within Geometric Group Theory. I am particularly interested in automorphisms of non-positively curved groups, as well as the geometry of their subgroups, and the quasi-isometry classification of nilpotent groups.
 
 I wrote a short text about Dehn functions and one of my recent works aimed at a large mathematical audience. This can be found [here](https://www.maths.ox.ac.uk/node/74266). 
 
