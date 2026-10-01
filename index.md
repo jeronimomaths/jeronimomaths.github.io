@@ -10,6 +10,8 @@ I am a Research Fellow at the [<b>Mathematics Institute, University of Warwick</
 
 I completed my PhD at the [<b>Karlsruhe Institute of Technology</b>](https://www.math.kit.edu/iag/) in Germany under the supervision of [Claudio Llosa Isenrich](https://www.claudiollosa.com). Before that I did my Master's at the University of Bonn where I wrote my master's thesis under the supervision of [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/). I obtained my Bachelor's at the National Autonomous University of Mexico (UNAM).
 
+I am one of the organisers of the Warwick [Geometry and Topology seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/geomtop/).
+
 <h2> Research interests </h2> 
 
 My research lies at the intersection of Group Theory, Geometric Topology, and Geometry, placing it within the area of Geometric Group Theory. I am interested in filling functions of groups, in particular their Dehn functions, nilpotent groups and their quasi-isometry classification, and automorphism groups of non-positively curved groups, including right-angled Artin groups.<!--the large scale geometry of infinite groups and spaces, especially through invariants such as quasi-isometry invariants. This is in part motivated by the conjectural quasi-isometry classification of nilpotent groups.-->
@@ -21,8 +23,6 @@ I wrote a short text about Dehn functions and one of my recent projects aimed at
 <!--More recently, I have been interested in automorphism groups of non-positively curved groups, including right-angled Artin groups.-->
 
 For further information, see my <a href="CV/cv-GarciaMejia.pdf">CV</a>.
-
-I am one of the organisers of the Warwick [Geometry and Topology seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/geomtop/).
 
 <small><i>Note: My official name is Jerónimo García Mejía. For publications, I go with Jerónimo García-Mejía. </i></small>
 
