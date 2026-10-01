@@ -14,13 +14,9 @@ I am one of the organisers of the Warwick [Geometry and Topology seminar](https:
 
 <h2> Research interests </h2> 
 
-My research lies at the intersection of Group Theory, Geometric Topology, and Geometry, placing it within the area of Geometric Group Theory. I am interested in filling functions of groups, in particular their Dehn functions, nilpotent groups and their quasi-isometry classification, and automorphism groups of non-positively curved groups, including right-angled Artin groups.<!--the large scale geometry of infinite groups and spaces, especially through invariants such as quasi-isometry invariants. This is in part motivated by the conjectural quasi-isometry classification of nilpotent groups.-->
+I study infinite groups from a geometric perspective. I use topological, combinatorial, and geometrical techniques to understand them. My research area is within Geometric Group Theory. Filling functions of groups and spaces, in particular Dehn functions, are a recurrent tool in my research. I am particularly interested in automorphism groups of non-positively curved groups, as well as the geometry of their subgroups, and the quasi-isometry classification of nilpotent groups.
 
-<!--Much of my work has focused on the study of filling functions, such as the Dehn function, a fundamental quasi-isometry invariant of groups.--> 
-
-I wrote a short text about Dehn functions and one of my recent projects aimed at a large mathematical audience. This can be found [here](https://www.maths.ox.ac.uk/node/74266). 
-
-<!--More recently, I have been interested in automorphism groups of non-positively curved groups, including right-angled Artin groups.-->
+I wrote a short text about Dehn functions and one of my recent works aimed at a large mathematical audience. This can be found [here](https://www.maths.ox.ac.uk/node/74266). 
 
 For further information, see my <a href="CV/cv-GarciaMejia.pdf">CV</a>.
 
