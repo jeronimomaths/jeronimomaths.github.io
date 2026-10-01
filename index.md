@@ -22,5 +22,7 @@ I wrote a short text about Dehn functions and one of my recent projects aimed at
 
 For further information, see my <a href="CV/cv-GarciaMejia.pdf">CV</a>.
 
+I am one of the organisers of the Warwick [Geometry and Topology seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/geomtop/).
+
 <small><i>Note: My official name is Jerónimo García Mejía. For publications, I go with Jerónimo García-Mejía. </i></small>
 
