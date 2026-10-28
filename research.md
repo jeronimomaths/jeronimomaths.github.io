@@ -2,6 +2,7 @@
 layout: page
 title: "Research"
 ---
+I wrote a short text about one of my recent works aimed at a large mathematical audience. This can be found [here](https://www.maths.ox.ac.uk/node/74266). 
 
 <h2> Publications </h2>
 
