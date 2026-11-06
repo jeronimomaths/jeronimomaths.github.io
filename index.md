@@ -12,8 +12,6 @@ I completed my PhD at the [Karlsruhe Institute of Technology](https://www.math.k
 
 I am one of the organisers of the Warwick [Geometry and Topology seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/geomtop/).
 
-<b>On AI:</b> I do believe that tools, such as AI, can be beneficial for science and other fundamental aspects of life. Nevertheless, I find it worrying that most AI tools, as of today, are not easily accessible in the same way to everyone, and are rather controlled by companies whose sole interest is to maximise their profits, while engaging in questionable working and ethical practices.
-
 <h2> Research interests </h2> 
 
 I study infinite groups from a geometric perspective. I use topological, combinatorial, and geometrical techniques to understand groups. My research area is within Geometric Group Theory. I am particularly interested in automorphisms of non-positively curved groups, as well as the geometry of their subgroups, and the quasi-isometry classification of nilpotent groups.
