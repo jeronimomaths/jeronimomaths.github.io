@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.10.23)  10 NOV 2026 18:36
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.10.23)  17 NOV 2026 22:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -504,28 +504,46 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 57.
+
+Overfull \hbox (78.06003pt too wide) in alignment at lines 137--152
+ [] [] 
+ []
+
 [1
 
 ]
 ignored: Infinite glue shrinkage found in box being split [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 330.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 330.
+Overfull \hbox (1.23767pt too wide) in alignment at lines 335--343
+ [] [] 
+ []
 
-ignored: Infinite glue shrinkage found in box being split [3] [4] (./cv-GarciaMejia.aux)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 352.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 352.
+
+Overfull \hbox (1.23767pt too wide) in alignment at lines 354--364
+ [] [] 
+ []
+
+
+Overfull \hbox (1.23767pt too wide) in alignment at lines 407--417
+ [] [] 
+ []
+
+[3] (./cv-GarciaMejia.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16255 strings out of 468168
- 296567 string characters out of 5432814
- 767371 words of memory out of 5000000
- 44825 multiletter control sequences out of 15000+600000
- 643162 words of font info for 55 fonts, out of 8000000 for 9000
+ 16250 strings out of 468168
+ 296471 string characters out of 5432814
+ 763328 words of memory out of 5000000
+ 44822 multiletter control sequences out of 15000+600000
+ 643154 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,6n,93p,1203b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,6n,93p,1203b,457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv-GarciaMejia.pdf (4 pages).
+Output written on cv-GarciaMejia.pdf (3 pages).
