@@ -12,7 +12,7 @@ I completed my PhD at the [Karlsruhe Institute of Technology](https://www.math.k
 
 I am one of the organisers of the Warwick [Geometry and Topology seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/geomtop/).
 
-<h2> Research interests </h2> 
+<h2><span style="font-weight:normal"> Research interests </span></h2> 
 
 I use topological, combinatorial, and geometric techniques to study infinite groups. My research interests include automorphisms of non-positively curved groups, the geometry of their subgroups, and the quasi-isometry classification of nilpotent groups. The Dehn function of a group has plays a central role in my work across these areas.
 
