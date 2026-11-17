@@ -14,9 +14,9 @@ I am one of the organisers of the Warwick [Geometry and Topology seminar](https:
 
 <h2> Research interests </h2> 
 
-I use topological, combinatorial, and geometrical techniques to understand infinite groups. My research area is within Geometric Group Theory. I am particularly interested in automorphisms of non-positively curved groups, as well as the geometry of their subgroups, and the quasi-isometry classification of nilpotent groups.
+I use topological, combinatorial, and geometric techniques to study infinite groups. My research interests include automorphisms of non-positively curved groups, the geometry of their subgroups, and the quasi-isometry classification of nilpotent groups. The Dehn function of a group has plays a central role in my work across these areas.
 
-I wrote a [short text](https://www.maths.ox.ac.uk/node/74266) about Dehn functions and one of my recent works aimed at a large mathematical audience. 
+I wrote a [short text](https://www.maths.ox.ac.uk/node/74266) about Dehn functions and one of my papers aimed at a large mathematical audience. 
 
 For further information, see my <a href="CV/cv-GarciaMejia.pdf">CV</a>.
 
