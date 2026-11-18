@@ -4,11 +4,11 @@ title: "Research"
 ---
 I wrote a short text about one of my recent works aimed at a large mathematical audience. This can be found [here](https://www.maths.ox.ac.uk/node/74266). 
 
-<h2> Preprints </h2>
+<h2>  <span style="font-weight:normal"> Preprints </span> </h2>
 
 * <em>Conjugator length of Bestvina--Brady groups</em>. With [Matteo Migliorini](https://www.matteomigliorini.it/en/). Submitted. [<b>arXiv</b>][cl-bbkernels-arxiv].
 
-<h2> Publications </h2>
+<h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
 * <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). <br> <b> Geometric and Functional Analysis</b>, [journal][dehn-bbkernels], [<b>arXiv</b>][dehn-bbkernels-arxiv], [case study](https://www.maths.ox.ac.uk/node/74266).
 
