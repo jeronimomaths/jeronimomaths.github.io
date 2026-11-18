@@ -10,7 +10,7 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
-* <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). <br> <b> Geometric and Functional Analysis</b>, [journal][dehn-bbkernels], [arXiv:2507.07566][dehn-bbkernels-arxiv], [case study](https://www.maths.ox.ac.uk/node/74266).
+* <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With [Yu-Chan Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [Matteo Migliorini](https://www.matteomigliorini.it/en/). <br> <b> Geometric and Functional Analysis</b>, [journal][dehn-bbkernels], <a class="arx" href="https://arxiv.org/abs/2507.07566">arXiv:2507.07566 </a>, [case study](https://www.maths.ox.ac.uk/node/74266).
 
 * <em>On the Dehn functions of central products of nilpotent groups</em>. With [Claudio Llosa Isenrich](https://www.claudiollosa.com) and [Gabriel Pallier](https://gpallier.github.io). <br> <b>Transactions of the American Mathematical Society</b>, [journal][CentralDehn], [arXiv:2310.11144][CentralDehn-arxiv].
 
