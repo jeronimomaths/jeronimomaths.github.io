@@ -6,7 +6,7 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <h2>  <span style="font-weight:normal"> Preprints </span> </h2>
 
-* <em>Conjugator length of Bestvina--Brady groups</em>. With [Matteo Migliorini](https://www.matteomigliorini.it/en/). Submitted. [<b>arXiv:2611.05619</b>][cl-bbkernels-arxiv].<a class="arx">arxiv</a>
+* <em>Conjugator length of Bestvina--Brady groups</em>. With [Matteo Migliorini](https://www.matteomigliorini.it/en/). Submitted. [<b>arXiv:2611.05619</b>][cl-bbkernels-arxiv].
 
 <h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
