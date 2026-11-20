@@ -17,4 +17,5 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 {% endfor %}
 </ol>
 
+
 <b>On AI:</b> I do believe that tools, such as AI, can be beneficial for science and other fundamental aspects of life. Nevertheless, I find it worrying that most AI tools, as of today, are not easily accessible in the same way to everyone, and are rather controlled by companies whose sole interest is to maximise their profits, while engaging in questionable working and ethical practices.
