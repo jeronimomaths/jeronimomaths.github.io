@@ -1,7 +1,43 @@
-{% include publication.html
-   title="Complete classification of the Dehn functions of Bestvina–Brady groups"
-   authors="Y.-C. Chang, J. García-Mejía, M. Migliorini"
-   journal="Geometric and Functional Analysis"
-   year="2026"
-   arxiv="2507.07566"
-%}
+
+<li>
+  <b>{{ include.title }}</b>.
+
+  {% if include.authors %}
+    With {{ include.authors }}.
+  {% endif %}
+
+  <br>
+
+  {% if include.journal %}
+    <i>{{ include.journal }}</i>
+  {% endif %}
+
+  {% if include.year %}
+    {% if include.journal %} · {% endif %}
+    {{ include.year }}
+  {% endif %}
+
+  {% if include.arxiv %}
+    {% if include.journal or include.year %} · {% endif %}
+    <a href="https://arxiv.org/abs/{{ include.arxiv }}"
+       class="arxiv-link"
+       target="_blank"
+       rel="noopener noreferrer">
+      <b>arXiv:{{ include.arxiv }}</b>
+    </a>
+  {% endif %}
+
+  {% if include.doi %}
+    · <a href="https://doi.org/{{ include.doi }}"
+         target="_blank"
+         rel="noopener noreferrer">Journal</a>
+  {% endif %}
+
+  {% if include.extra_url %}
+    · <a href="{{ include.extra_url }}"
+         target="_blank"
+         rel="noopener noreferrer">
+      {{ include.extra_label | default: "More information" }}
+    </a>
+  {% endif %}
+</li>
