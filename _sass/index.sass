@@ -9,3 +9,11 @@ $light: #ffffff !default
 
 @function reduce ($percent)
   @return rgba(mix($dark, $light), $percent / 100)
+
+/* Global hyperlink colour in light mode */
+@media (prefers-color-scheme: light)
+  a
+    color: #666666
+
+  a:hover
+    color: #444444
