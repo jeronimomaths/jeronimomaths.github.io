@@ -6,7 +6,7 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <h2>  <span style="font-weight:normal"> Preprints </span> </h2>
 
-* <em>Conjugator length of Bestvina--Brady groups</em>. With <a href="https://www.matteomigliorini.it/en/" target="_blank">M. Migliorini</a>. 
+* <b>Conjugator length of Bestvina--Brady groups</b>. With <a href="https://www.matteomigliorini.it/en/" target="_blank">M. Migliorini</a>. 
 <br> Submitted. 
 <br> <a href="https://arxiv.org/abs/2611.05619" target="_blank"><b>arXiv</b></a>, Nov 2026.
 
@@ -14,16 +14,16 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <ol reversed>
   
-<li> <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With <a href="https://sites.google.com/view/yuchanchang/home?authuser=0" target="_blank">Y.-C. Chang</a> and <a href="https://www.matteomigliorini.it/en/" target="_blank">M. Migliorini</a>. 
-<br> Published in <b>Geom. Funct. Anal.</b> 
+<li> <b>Complete classification of the Dehn functions of Bestvina--Brady groups</b>. With <a href="https://sites.google.com/view/yuchanchang/home?authuser=0" target="_blank">Y.-C. Chang</a> and <a href="https://www.matteomigliorini.it/en/" target="_blank">M. Migliorini</a>. 
+<br> Published in <i>Geom. Funct. Anal.</i> 
 <br> <a href="https://arxiv.org/abs/2507.07566" target="_blank"><b>arXiv</b></a>, Jul 2025. <a href="https://doi.org/10.1007/s00039-026-00731-7" target="_blank">Journal</a>, Feb 2026. <a href="https://www.maths.ox.ac.uk/node/74266" target="_blank">Case study</a>.</li>
 
-<li> <em>Random Dehn function of groups</em>. With <a href="https://www.antoinegoldsborough.com" target="_blank">A. Goldsborough</a>. 
-<br> Published in <b>J. Topol. Anal.</b>
+<li> <b>Random Dehn function of groups</b>. With <a href="https://www.antoinegoldsborough.com" target="_blank">A. Goldsborough</a>. 
+<br> Published in <i>J. Topol. Anal.</i>
 <br> <a href="https://arxiv.org/abs/2411.12715" target="_blank"><b>arXiv</b></a>, Nov 2024. <a href="https://doi.org/10.1142/S179352532550027X" target="_blank">Journal</a>, Sep 2025.</li>
 
-<li> <em>On the Dehn functions of central products of nilpotent groups</em>. With <a href="https://www.claudiollosa.com" target="_blank">C. Llosa Isenrich</a> and <a href="https://gpallier.github.io" target="_blank">G. Pallier</a>]. 
-<br> Published in <b>Trans. Amer. Math. Soc.</b>
+<li> <b>On the Dehn functions of central products of nilpotent groups</b>. With <a href="https://www.claudiollosa.com" target="_blank">C. Llosa Isenrich</a> and <a href="https://gpallier.github.io" target="_blank">G. Pallier</a>]. 
+<br> Published in <i>Trans. Amer. Math. Soc.</i>
 <br> <a href="https://doi.org/10.1090/tran/9708" target="_blank"><b>arXiv</b></a>, Oct 2023. <a href="" target="_blank">Journal</a>, Sep 2026.</li>
 
 </ol>
