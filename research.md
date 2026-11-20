@@ -7,24 +7,20 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 <h2>  <span style="font-weight:normal"> Preprints </span> </h2>
 
 * <b>Conjugator length of Bestvina--Brady groups</b>. With <a href="https://www.matteomigliorini.it/en/" target="_blank">M. Migliorini</a>. 
-<br> <i>Submitted</i>. 
-<br> Nov 2026 <a href="https://arxiv.org/abs/2611.05619" class="arxiv-link" target="_blank"><b>arXiv:2611.05619</b></a>
+<br> <i>Submitted</i> Nov 2026 <a href="https://arxiv.org/abs/2611.05619" class="arxiv-link" target="_blank"><b>arXiv:2611.05619</b></a>
 
 <h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
 <ol reversed>
   
 <li> <b>Complete classification of the Dehn functions of Bestvina--Brady groups</b>. With <a href="https://sites.google.com/view/yuchanchang/home?authuser=0" target="_blank">Y.-C. Chang</a> and <a href="https://www.matteomigliorini.it/en/" target="_blank">M. Migliorini</a>. 
-<br> <i>Geometric and Functional Analysis</i> 2026
-<br> <a href="https://arxiv.org/abs/2507.07566" class="arxiv-link" target="_blank"><b>arXiv:2507.07566</b></a> <!--<a href="https://doi.org/10.1007/s00039-026-00731-7" target="_blank">Journal</a>, Feb 2026.--> <a href="https://www.maths.ox.ac.uk/node/74266" target="_blank">Case study</a>.</li>
+<br> <i>Geometric and Functional Analysis</i> 2026 <a href="https://arxiv.org/abs/2507.07566" class="arxiv-link" target="_blank"><b>arXiv:2507.07566</b></a> <!--<a href="https://doi.org/10.1007/s00039-026-00731-7" target="_blank">Journal</a>, Feb 2026.--> <a href="https://www.maths.ox.ac.uk/node/74266" target="_blank">Case study</a>.</li>
 
 <li> <b>Random Dehn function of groups</b>. With <a href="https://www.antoinegoldsborough.com" target="_blank">A. Goldsborough</a>. 
-<br> <i>Journal of Topology and Analysis</i> 2025
-<br> <a href="https://arxiv.org/abs/2411.12715" class="arxiv-link" target="_blank"><b>arXiv:2411.12715</b></a> <!-- Nov 2024. <a href="https://doi.org/10.1142/S179352532550027X" target="_blank">Journal</a>, Sep 2025.</li> -->
+<br> <i>Journal of Topology and Analysis</i> 2025 <a href="https://arxiv.org/abs/2411.12715" class="arxiv-link" target="_blank"><b>arXiv:2411.12715</b></a> <!-- Nov 2024. <a href="https://doi.org/10.1142/S179352532550027X" target="_blank">Journal</a>, Sep 2025.--></li>
 
 <li> <b>On the Dehn functions of central products of nilpotent groups</b>. With <a href="https://www.claudiollosa.com" target="_blank">C. Llosa Isenrich</a> and <a href="https://gpallier.github.io" target="_blank">G. Pallier</a>]. 
-<br> <i>Transactions of the AMS</i> 2026 
-<br> <a href="https://arxiv.org/abs/2310.11144v3" class="arxiv-link" target="_blank"><b>arXiv:2310.11144</b></a> <!--, Oct 2023. <a href="https://doi.org/10.1090/tran/9708" target="_blank">Journal</a>, Sep 2026.</li>-->
+<br> <i>Transactions of the AMS</i> 2026 <a href="https://arxiv.org/abs/2310.11144v3" class="arxiv-link" target="_blank"><b>arXiv:2310.11144</b></a> <!--, Oct 2023. <a href="https://doi.org/10.1090/tran/9708" target="_blank">Journal</a>, Sep 2026.--> </li>
 
 </ol>
 
