@@ -6,15 +6,22 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <h2>  <span style="font-weight:normal"> Preprints </span> </h2>
 
-* <em>Conjugator length of Bestvina--Brady groups</em>. With [M. Migliorini](https://www.matteomigliorini.it/en/). Submitted. [<b>arXiv:2611.05619</b>][cl-bbkernels-arxiv].
+* <em>Conjugator length of Bestvina--Brady groups</em>. With [M. Migliorini](https://www.matteomigliorini.it/en/). Submitted. [<b>arXiv</b>][cl-bbkernels-arxiv], Nov 2026.
 
 <h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
-* <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With [Y.-C. Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [M. Migliorini](https://www.matteomigliorini.it/en/). <br> <b>Geom. Funct. Anal.</b>, [journal][dehn-bbkernels], [<b>arXiv:2507.07566</b>][dehn-bbkernels-arxiv], [case study](https://www.maths.ox.ac.uk/node/74266).
+* <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With [Y.-C. Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [M. Migliorini](https://www.matteomigliorini.it/en/). 
+<br> <b>Geom. Funct. Anal.</b> (2026). 
+<br> [<b>arXiv</b>][dehn-bbkernels-arxiv], Jul 2025. [Journal][dehn-bbkernels], Dec 2025. [Case study](https://www.maths.ox.ac.uk/node/74266).
 
-* <em>On the Dehn functions of central products of nilpotent groups</em>. With [C. Llosa Isenrich](https://www.claudiollosa.com) and [G. Pallier](https://gpallier.github.io). <br> <b>Trans. Amer. Math. Soc.</b>, [journal][CentralDehn], [<b>arXiv:2310.11144</b>][CentralDehn-arxiv].
+* <em>Random Dehn function of groups</em>. With [A. Goldsborough](https://www.antoinegoldsborough.com). 
+<br> <b>J. Topol. Anal.</b> (2026).
+<br> [<b>arXiv</b>][RandomDehn-arxiv], Nov 2024. [Journal][RandomDehn], Aug 2025.
 
-* <em>Random Dehn function of groups</em>. With [A. Goldsborough](https://www.antoinegoldsborough.com). <br> <b>J. Topol. Anal.</b>, [journal][RandomDehn], [<b>arXiv:2411.12715</b>][RandomDehn-arxiv].
+* <em>On the Dehn functions of central products of nilpotent groups</em>. With [C. Llosa Isenrich](https://www.claudiollosa.com) and [G. Pallier](https://gpallier.github.io). 
+<br> <b>Trans. Amer. Math. Soc.</b> (2026).
+<br> [<b>arXiv</b>][CentralDehn-arxiv], Oct 2023. [Journal][CentralDehn], Dec 2025.
+
 
 
 <b>On AI:</b> I do believe that tools, such as AI, can be beneficial for science and other fundamental aspects of life. Nevertheless, I find it worrying that most AI tools, as of today, are not easily accessible in the same way to everyone, and are rather controlled by companies whose sole interest is to maximise their profits, while engaging in questionable working and ethical practices.
