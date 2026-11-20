@@ -1,6 +1,7 @@
 
 /* arXiv badges for research page */
 
+
 .arxiv-link {
   display: inline-block;
   padding: 2px 8px;
@@ -10,8 +11,7 @@
   font-weight: 500;
   line-height: 1.5;
 
-  color: #555;
-  background: #f5f5f5;
+  background: transparent;
   border: 1px solid #d5d5d5;
   border-radius: 4px;
 
@@ -23,13 +23,13 @@
 }
 
 .arxiv-link:hover {
-  color: #222;
-  background: #e9e9e9;
+  background: transparent;
   border-color: #aaa;
   text-decoration: none;
 }
 
 .arxiv-link:focus-visible {
-  outline: 2px solid #555;
+  outline: 2px solid currentColor;
   outline-offset: 2px;
 }
+
