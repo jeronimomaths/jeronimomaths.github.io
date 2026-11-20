@@ -4,26 +4,23 @@
   
   <br>
   
+  
   {% assign authors = include.paper.authors %}
   {% if authors and authors.size > 0 %}
     With
-    {% for author in authors %}
-      {% if author.url %}
+      {% for author_id in authors %}
+      {%- assign author = site.data.coauthors[author_id] %}
+      {% if author %}
         <a href="{{ author.url }}"
            target="_blank"
            rel="noopener noreferrer">{{ author.name }}</a>
       {% else %}
-        {{ author.name }}
+        {{ author_id }}
       {% endif %}
-      {% unless forloop.last %}
-        {% if forloop.rindex == 2 %}
-          and
-        {% else %}
-          ,
-        {% endif %}
-      {% endunless %}
+    {% if forloop.last %}.{% elsif forloop.rindex == 2 %} and {% else %}, {% endif %}
     {% endfor %}
   {% endif %}
+
 
   <br>
 
