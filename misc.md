@@ -1,5 +1,5 @@
 ---
-layoput: page
+layout: page
 title: Miscellaneous
 ---
 
