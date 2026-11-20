@@ -1,0 +1,6 @@
+{%- assign person = site.data.coauthors[include.id] -%}
+{%- if person -%}
+<a href="{{ person.url }}"
+   target="_blank"
+   rel="noopener noreferrer">{{ person.name }}</a>
+{%- endif -%}
