@@ -11,7 +11,7 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
-<ol reversed>
+<ol reversed class="research-list">
   
 <li> <b>Complete classification of the Dehn functions of Bestvina--Brady groups</b>. With <a href="https://sites.google.com/view/yuchanchang/home?authuser=0" target="_blank">Y.-C. Chang</a> and <a href="https://www.matteomigliorini.it/en/" target="_blank">M. Migliorini</a>. 
 <br> <i>Geometric and Functional Analysis</i> 2026 <a href="https://arxiv.org/abs/2507.07566" class="arxiv-link" target="_blank"><b>arXiv:2507.07566</b></a> <!--<a href="https://doi.org/10.1007/s00039-026-00731-7" target="_blank">Journal</a>, Feb 2026.--> <a href="https://www.maths.ox.ac.uk/node/74266" target="_blank">Case study</a>.</li>
