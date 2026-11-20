@@ -12,15 +12,6 @@
     label: "Case study"
     url: "https://www.maths.ox.ac.uk/node/74266"
 
-- title: "Random Dehn function of groups"
-  authors:
-    - goldsborough
-  journal: "Journal of Topology and Analysis"
-  year: 2025
-  arxiv:
-    id: "2411.12715"
-    url: "https://arxiv.org/abs/2411.12715"
-
 - title: "On the Dehn functions of central products of nilpotent groups"
   authors:
     - llosa
@@ -30,3 +21,11 @@
   arxiv:
     id: "2310.11144"
     url: "https://arxiv.org/abs/2310.11144v3"
+- title: "Random Dehn function of groups"
+  authors:
+    - goldsborough
+  journal: "Journal of Topology and Analysis"
+  year: 2025
+  arxiv:
+    id: "2411.12715"
+    url: "https://arxiv.org/abs/2411.12715"
