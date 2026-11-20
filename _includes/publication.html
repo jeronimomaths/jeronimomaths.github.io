@@ -29,13 +29,13 @@
     <i>{{ include.paper.journal }}</i>
   {% endif %}
 
-  {% if include.paper.year %}
-    {% if include.paper.journal %} · {% endif %}
-    {{ include.paper.year }}
+  {% if include.paper.year or include.paper.date %}
+  {% if include.paper.journal %} · {% endif %}
+  {{ include.paper.year | default: include.paper.date }}
   {% endif %}
 
   {% if include.paper.arxiv %}
-    {% if include.paper.journal or include.paper.year %}
+    {% if include.paper.journal or include.paper.year or include.paper.date %}
       ·
     {% endif %}
     <a href="{{ include.paper.arxiv.url }}"
