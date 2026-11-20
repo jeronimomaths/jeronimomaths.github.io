@@ -8,7 +8,7 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 * <b>Conjugator length of Bestvina--Brady groups</b>. With <a href="https://www.matteomigliorini.it/en/" target="_blank">M. Migliorini</a>. 
 <br> <i>Submitted</i>. 
-<br> <a href="https://arxiv.org/abs/2611.05619" class="arxiv-link" target="_blank"><b>arXiv:2611.05619</b></a>, Nov 2026.
+<br> Nov 2026 <a href="https://arxiv.org/abs/2611.05619" class="arxiv-link" target="_blank"><b>arXiv:2611.05619</b></a>
 
 <h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
