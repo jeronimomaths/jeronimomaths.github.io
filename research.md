@@ -20,7 +20,7 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <li> <em>Random Dehn function of groups</em>. With <a href="https://www.antoinegoldsborough.com" target="_blank">A. Goldsborough</a>. 
 <br> <b>J. Topol. Anal.</b>.
-<br> <a href="https://arxiv.org/abs/2411.12715" target="_blank"><b>arXiv</b></a>, Nov 2024. <a href="https://doi.org/10.1142/S179352532550027X" target"_blank">Journal</a>, Sep 2025.</li>
+<br> <a href="https://arxiv.org/abs/2411.12715" target="_blank"><b>arXiv</b></a>, Nov 2024. <a href="https://doi.org/10.1142/S179352532550027X" target="_blank">Journal</a>, Sep 2025.</li>
 
 <li> <em>On the Dehn functions of central products of nilpotent groups</em>. With <a href="https://www.claudiollosa.com" target="_blank">C. Llosa Isenrich</a> and <a href="https://gpallier.github.io" target="_blank">G. Pallier</a>]. 
 <br> <b>Trans. Amer. Math. Soc.</b>.
