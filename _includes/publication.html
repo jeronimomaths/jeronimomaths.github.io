@@ -1,43 +1,58 @@
 
 <li>
-  <b>{{ include.title }}</b>.
+  <b>{{ include.paper.title }}</b>.
 
-  {% if include.authors %}
-    With {{ include.authors }}.
+  {% assign authors = include.paper.authors %}
+  {% if authors and authors.size > 0 %}
+    With
+    {% for author in authors %}
+      {% if author.url %}
+        <a href="{{ author.url }}"
+           target="_blank"
+           rel="noopener noreferrer">{{ author.name }}</a>
+      {% else %}
+        {{ author.name }}
+      {% endif %}
+      {% unless forloop.last %}
+        {% if forloop.rindex == 2 %}
+          and
+        {% else %}
+          ,
+        {% endif %}
+      {% endunless %}
+    {% endfor %}.
   {% endif %}
 
   <br>
 
-  {% if include.journal %}
-    <i>{{ include.journal }}</i>
+  {% if include.paper.journal %}
+    <i>{{ include.paper.journal }}</i>
   {% endif %}
 
-  {% if include.year %}
-    {% if include.journal %} · {% endif %}
-    {{ include.year }}
+  {% if include.paper.year %}
+    {% if include.paper.journal %} · {% endif %}
+    {{ include.paper.year }}
   {% endif %}
 
-  {% if include.arxiv %}
-    {% if include.journal or include.year %} · {% endif %}
-    <a href="https://arxiv.org/abs/{{ include.arxiv }}"
+  {% if include.paper.arxiv %}
+    {% if include.paper.journal or include.paper.year %}
+      ·
+    {% endif %}
+    <a href="{{ include.paper.arxiv.url }}"
        class="arxiv-link"
        target="_blank"
        rel="noopener noreferrer">
-      <b>arXiv:{{ include.arxiv }}</b>
+      <b>arXiv:{{ include.paper.arxiv.id }}</b>
     </a>
   {% endif %}
 
-  {% if include.doi %}
-    · <a href="https://doi.org/{{ include.doi }}"
-         target="_blank"
-         rel="noopener noreferrer">Journal</a>
-  {% endif %}
-
-  {% if include.extra_url %}
-    · <a href="{{ include.extra_url }}"
-         target="_blank"
-         rel="noopener noreferrer">
-      {{ include.extra_label | default: "More information" }}
+  {% if include.paper.extra %}
+    ·
+    <a href="{{ include.paper.extra.url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      {{ include.paper.extra.label }}
     </a>
   {% endif %}
 </li>
+
