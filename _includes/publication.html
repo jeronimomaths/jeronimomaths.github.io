@@ -17,7 +17,7 @@
       {% else %}
         {{ author_id }}
       {% endif %}
-      {%- if forloop.last %}.{% elsif forloop.rindex == 2 %} and {% else %}, {% endif %}
+      {%- if forloop.last %}{% elsif forloop.rindex == 2 %} and {% else %}, {% endif %}
     {%- endfor %}
   {% endif %}
 
