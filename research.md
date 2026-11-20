@@ -6,11 +6,11 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <h2>  <span style="font-weight:normal"> Preprints </span> </h2>
 
-<l>
+<ol  reversed class="preprint-list">
   {% for paper in site.data.preprints %}
   {% include publication.html paper=paper %}
   {% endfor %}
-</l> 
+</ol> 
 
 <h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
