@@ -6,21 +6,22 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <h2>  <span style="font-weight:normal"> Preprints </span> </h2>
 
-* <em>Conjugator length of Bestvina--Brady groups</em>. With [M. Migliorini](https://www.matteomigliorini.it/en/). Submitted. [<b>arXiv</b>][cl-bbkernels-arxiv], Nov 2026.
+* <em>Conjugator length of Bestvina--Brady groups</em>. With [M. Migliorini](https://www.matteomigliorini.it/en/). Submitted. 
+<br> [<b>arXiv</b>][cl-bbkernels-arxiv], Nov 2026.
 
 <h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
 * <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With [Y.-C. Chang](https://sites.google.com/view/yuchanchang/home?authuser=0) and [M. Migliorini](https://www.matteomigliorini.it/en/). 
-<br> <b>Geom. Funct. Anal.</b> (2026). 
-<br> [<b>arXiv</b>][dehn-bbkernels-arxiv], Jul 2025. [Journal][dehn-bbkernels], Dec 2025. [Case study](https://www.maths.ox.ac.uk/node/74266).
+<br> <b>Geom. Funct. Anal.</b>. 
+<br> [<b>arXiv</b>][dehn-bbkernels-arxiv], Jul 2025. [Journal][dehn-bbkernels], Feb 2026. [Case study](https://www.maths.ox.ac.uk/node/74266).
 
 * <em>Random Dehn function of groups</em>. With [A. Goldsborough](https://www.antoinegoldsborough.com). 
-<br> <b>J. Topol. Anal.</b> (2026).
-<br> [<b>arXiv</b>][RandomDehn-arxiv], Nov 2024. [Journal][RandomDehn], Aug 2025.
+<br> <b>J. Topol. Anal.</b>.
+<br> [<b>arXiv</b>][RandomDehn-arxiv], Nov 2024. [Journal][RandomDehn], Sep 2025.
 
 * <em>On the Dehn functions of central products of nilpotent groups</em>. With [C. Llosa Isenrich](https://www.claudiollosa.com) and [G. Pallier](https://gpallier.github.io). 
-<br> <b>Trans. Amer. Math. Soc.</b> (2026).
-<br> [<b>arXiv</b>][CentralDehn-arxiv], Oct 2023. [Journal][CentralDehn], Dec 2025.
+<br> <b>Trans. Amer. Math. Soc.</b>.
+<br> [<b>arXiv</b>][CentralDehn-arxiv], Oct 2023. [Journal][CentralDehn], Sep 2026.
 
 
 
