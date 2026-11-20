@@ -12,7 +12,7 @@ I wrote a short text about one of my recent works aimed at a large mathematical 
 
 <h2>  <span style="font-weight:normal"> Publications </span> </h2>
 
-<ol reversed> <a href="" target="_blank">
+<ol reversed>
   
 <li> <em>Complete classification of the Dehn functions of Bestvina--Brady groups</em>. With <a href="https://sites.google.com/view/yuchanchang/home?authuser=0" target="_blank">Y.-C. Chang</a> and <a href="https://www.matteomigliorini.it/en/" target="_blank">M. Migliorini</a>. 
 <br> <b>Geom. Funct. Anal.</b>. 
