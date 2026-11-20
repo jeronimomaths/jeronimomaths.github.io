@@ -1,1 +1,37 @@
 
+- title: "Complete classification of the Dehn functions of Bestvina--Brady groups"
+  authors:
+    - name: "Y.-C. Chang"
+      url: "https://sites.google.com/view/yuchanchang/home?authuser=0"
+    - name: "M. Migliorini"
+      url: "https://www.matteomigliorini.it/en/"
+  journal: "Geometric and Functional Analysis"
+  year: 2026
+  arxiv:
+    id: "2507.07566"
+    url: "https://arxiv.org/abs/2507.07566"
+  extra:
+    label: "Case study"
+    url: "https://www.maths.ox.ac.uk/node/74266"
+
+- title: "Random Dehn function of groups"
+  authors:
+    - name: "A. Goldsborough"
+      url: "https://www.antoinegoldsborough.com"
+  journal: "Journal of Topology and Analysis"
+  year: 2025
+  arxiv:
+    id: "2411.12715"
+    url: "https://arxiv.org/abs/2411.12715"
+
+- title: "On the Dehn functions of central products of nilpotent groups"
+  authors:
+    - name: "C. Llosa Isenrich"
+      url: "https://www.claudiollosa.com"
+    - name: "G. Pallier"
+      url: "https://gpallier.github.io"
+  journal: "Transactions of the AMS"
+  year: 2026
+  arxiv:
+    id: "2310.11144"
+    url: "https://arxiv.org/abs/2310.11144v3"
