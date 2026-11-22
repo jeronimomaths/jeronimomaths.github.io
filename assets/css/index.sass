@@ -29,14 +29,24 @@ body > footer
 
 @import arxiv
 
-/* Global hyperlink colour in light mode */
-@media (prefers-color-scheme: light)
-  a
-    color: #3657cf
 
-  a:hover
-    color: #666666
+/* Global hyperlink colours */
 
+html[data-theme="light"]
+  body
+    a
+      color: #3657cf
+
+    a:hover
+      color: #666666
+
+html[data-theme="dark"]
+  body
+    a
+      color: #6688ff
+
+
+/* Research lists */
 
 .research-list,
 .research-preprints
@@ -48,3 +58,4 @@ body > footer
 .research-list li,
 .research-preprints li
   margin-bottom: 1em
+
