@@ -33,6 +33,21 @@
 <link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
 {% endif %}
 
+/* For the toggle button light/dark */
+<script>
+  (function () {
+    const saved = localStorage.getItem("theme");
+    const systemDark = window.matchMedia(
+      "(prefers-color-scheme: dark)"
+    ).matches;
+
+    document.documentElement.setAttribute(
+      "data-theme",
+      saved || (systemDark ? "dark" : "light")
+    );
+  })();
+</script>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   
 {% if site.plugins contains "jekyll-feed" %}<link rel="alternate" href="{{ site.feed.path | default: "/feed.xml" | relative_url }}" type="application/atom+xml" title="{{ site.title }}">{% endif %}
