@@ -94,3 +94,62 @@ pre
   border-radius: 2px
   margin: 0 .1em
   padding: .2em .4em
+
+
+/* Theme toggle button */
+
+#theme-toggle
+  border: none
+  background: transparent
+  color: inherit
+  cursor: pointer
+  font-size: 1.3em
+  padding: 0.25em 0.5em
+
+#theme-toggle:hover
+  opacity: 0.65
+
+#theme-toggle:focus-visible
+  outline: 2px solid currentColor
+  outline-offset: 3px
+
+/* Show the appropriate icon */
+
+.theme-icon-sun,
+.theme-icon-moon
+  display: none
+
+html[data-theme="light"] .theme-icon-sun
+  display: inline
+
+html[data-theme="dark"] .theme-icon-moon
+  display: inline
+
+/* Light mode */
+
+html[data-theme="light"] body
+  background: $light
+  color: $dark
+
+html[data-theme="light"] body a
+  color: #666666
+
+html[data-theme="light"] body a:hover
+  color: #444444
+
+/* Dark mode */
+
+html[data-theme="dark"] body
+  background: $dark
+  color: $light
+
+html[data-theme="dark"] body a
+  color: #bbbbbb
+
+/* Preserve header and footer links */
+
+html[data-theme] header a,
+html[data-theme] footer a,
+html[data-theme] aside a
+  color: inherit
+
