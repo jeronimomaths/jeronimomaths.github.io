@@ -34,15 +34,13 @@
 
 /* Dark mode */
 
-@media (prefers-color-scheme: dark) {
-  .arxiv-link {
-    background: transparent;
-    border-color: #555;
-  }
+html[data-theme="dark"] .arxiv-link {
+  background: transparent;
+  border-color: #555;
+}
 
-  .arxiv-link:hover {
-    border-color: #888;
-  }
+html[data-theme="dark"] .arxiv-link:hover {
+  border-color: #888;
 }
 
 
