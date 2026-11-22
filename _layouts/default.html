@@ -62,12 +62,13 @@
 </header>
 
 {{ content }}
-
 {% if site.external %}
 <footer>
   <div>{{ site.description | default: site.title }}</div>
   {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
-  
+
+<script src="{{ '/assets/js/theme-toggle.js' | relative_url }}" defer></script>
+
 </html>
