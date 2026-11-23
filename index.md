@@ -6,7 +6,7 @@ layout: page
 
 <h2> <span style="font-weight:normal"> About me </span> </h2>
 
-I am a Research Fellow at the Mathematics Institute, [University of Warwick](https://warwick.ac.uk/fac/sci/maths/) working with [Ric Wade](https://warwick.ac.uk/fac/sci/maths/people/staff/Wade). I started this position as a Postdoctoral Research Associate at the Mathematical Institute, [University of Oxford](https://www.maths.ox.ac.uk), before moving to Warwick together with Ric Wade. 
+I am a Research Fellow at the Mathematics Institute, [University of Warwick](https://warwick.ac.uk/fac/sci/maths/) working with [Ric Wade](https://ricwade.github.io). I started this position as a Postdoctoral Research Associate at the Mathematical Institute, [University of Oxford](https://www.maths.ox.ac.uk), before moving to Warwick together with Ric Wade. 
 
 I completed my PhD at the [Karlsruhe Institute of Technology](https://www.math.kit.edu/english/) in Germany under the supervision of [Claudio Llosa Isenrich](https://www.claudiollosa.com). 
 
