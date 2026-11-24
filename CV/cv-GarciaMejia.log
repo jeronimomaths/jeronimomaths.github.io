@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.10.23)  20 NOV 2026 15:01
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.10.23)  24 NOV 2026 17:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -549,10 +549,6 @@ Overfull \hbox (1.23767pt too wide) in alignment at lines 409--419
  [] [] 
  []
 
-
-LaTeX Warning: Etaremune labels have changed.
-               Rerun to get them right.
-
 [3] (./cv-GarciaMejia.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -562,7 +558,7 @@ L3 programming layer <2026-01-19>
 Here is how much of TeX's memory you used:
  16531 strings out of 468168
  301348 string characters out of 5432814
- 772116 words of memory out of 5000000
+ 772119 words of memory out of 5000000
  45089 multiletter control sequences out of 15000+600000
  643154 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
